@@ -1,3 +1,16 @@
+### Notes
+
+When ready to deploy do 'npm run deploy'
+
+When committing, do
+git add .
+git commit -m "foo"
+git push origin master
+
+Check GitHub often -- you should have a branch for source code and a source for built code. 
+Source: master
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

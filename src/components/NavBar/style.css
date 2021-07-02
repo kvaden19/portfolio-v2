@@ -1,0 +1,22 @@
+.container {
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+}
+
+.link {
+    color: white;
+}
+
+#contact li {
+    float: left;
+    width: 30%
+}
+
+#contact img {
+    height: 40px;
+    width: 40px;
+    margin-top: 10px;
+}
