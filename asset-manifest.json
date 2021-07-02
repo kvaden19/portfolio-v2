@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-v2/static/css/main.2ff19e4d.chunk.css",
+    "main.js": "/portfolio-v2/static/js/main.c2c98827.chunk.js",
+    "main.js.map": "/portfolio-v2/static/js/main.c2c98827.chunk.js.map",
+    "runtime-main.js": "/portfolio-v2/static/js/runtime-main.a8030743.js",
+    "runtime-main.js.map": "/portfolio-v2/static/js/runtime-main.a8030743.js.map",
+    "static/css/2.0bca3e4c.chunk.css": "/portfolio-v2/static/css/2.0bca3e4c.chunk.css",
+    "static/js/2.76bac113.chunk.js": "/portfolio-v2/static/js/2.76bac113.chunk.js",
+    "static/js/2.76bac113.chunk.js.map": "/portfolio-v2/static/js/2.76bac113.chunk.js.map",
+    "index.html": "/portfolio-v2/index.html",
+    "static/css/2.0bca3e4c.chunk.css.map": "/portfolio-v2/static/css/2.0bca3e4c.chunk.css.map",
+    "static/css/main.2ff19e4d.chunk.css.map": "/portfolio-v2/static/css/main.2ff19e4d.chunk.css.map",
+    "static/js/2.76bac113.chunk.js.LICENSE.txt": "/portfolio-v2/static/js/2.76bac113.chunk.js.LICENSE.txt",
+    "static/media/gmail-logo.718067d5.png": "/portfolio-v2/static/media/gmail-logo.718067d5.png",
+    "static/media/App.css": "/portfolio-v2/static/media/iStock-680820258.86dcb84a.jpg",
+    "static/media/linkedin-logo.e9ac3755.png": "/portfolio-v2/static/media/linkedin-logo.e9ac3755.png",
+    "static/media/pro.fb7ee663.jpeg": "/portfolio-v2/static/media/pro.fb7ee663.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8030743.js",
+    "static/css/2.0bca3e4c.chunk.css",
+    "static/js/2.76bac113.chunk.js",
+    "static/css/main.2ff19e4d.chunk.css",
+    "static/js/main.c2c98827.chunk.js"
+  ]
+}
