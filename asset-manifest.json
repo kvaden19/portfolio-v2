@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio-v2/static/css/main.1eefed64.chunk.css",
-    "main.js": "/portfolio-v2/static/js/main.d04f667f.chunk.js",
-    "main.js.map": "/portfolio-v2/static/js/main.d04f667f.chunk.js.map",
+    "main.js": "/portfolio-v2/static/js/main.baea2600.chunk.js",
+    "main.js.map": "/portfolio-v2/static/js/main.baea2600.chunk.js.map",
     "runtime-main.js": "/portfolio-v2/static/js/runtime-main.a8030743.js",
     "runtime-main.js.map": "/portfolio-v2/static/js/runtime-main.a8030743.js.map",
     "static/css/2.d45d6843.chunk.css": "/portfolio-v2/static/css/2.d45d6843.chunk.css",
-    "static/js/2.76bac113.chunk.js": "/portfolio-v2/static/js/2.76bac113.chunk.js",
-    "static/js/2.76bac113.chunk.js.map": "/portfolio-v2/static/js/2.76bac113.chunk.js.map",
+    "static/js/2.dd1a4111.chunk.js": "/portfolio-v2/static/js/2.dd1a4111.chunk.js",
+    "static/js/2.dd1a4111.chunk.js.map": "/portfolio-v2/static/js/2.dd1a4111.chunk.js.map",
     "index.html": "/portfolio-v2/index.html",
     "static/css/2.d45d6843.chunk.css.map": "/portfolio-v2/static/css/2.d45d6843.chunk.css.map",
     "static/css/main.1eefed64.chunk.css.map": "/portfolio-v2/static/css/main.1eefed64.chunk.css.map",
-    "static/js/2.76bac113.chunk.js.LICENSE.txt": "/portfolio-v2/static/js/2.76bac113.chunk.js.LICENSE.txt",
+    "static/js/2.dd1a4111.chunk.js.LICENSE.txt": "/portfolio-v2/static/js/2.dd1a4111.chunk.js.LICENSE.txt",
     "static/media/gmail-logo.718067d5.png": "/portfolio-v2/static/media/gmail-logo.718067d5.png",
     "static/media/App.css": "/portfolio-v2/static/media/iStock-680820258.86dcb84a.jpg",
     "static/media/linkedin-logo.e9ac3755.png": "/portfolio-v2/static/media/linkedin-logo.e9ac3755.png",
@@ -20,8 +20,8 @@
   "entrypoints": [
     "static/js/runtime-main.a8030743.js",
     "static/css/2.d45d6843.chunk.css",
-    "static/js/2.76bac113.chunk.js",
+    "static/js/2.dd1a4111.chunk.js",
     "static/css/main.1eefed64.chunk.css",
-    "static/js/main.d04f667f.chunk.js"
+    "static/js/main.baea2600.chunk.js"
   ]
 }
