@@ -6,7 +6,7 @@ import linkedin from './images/linkedin-logo.png';
 import github from './images/GitHub-Mark-Light-64px.png';
 import kelly from './images/pro.jpeg';
 
-function NavBar() {
+const NavBar = props => {
   return (
     <div id='sidebar'>
       <div className='container'>

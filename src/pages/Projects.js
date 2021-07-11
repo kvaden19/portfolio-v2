@@ -9,7 +9,7 @@ class Projects extends Component {
 
     render() {
         return (
-        <div>
+        <div className='main'>
             <Wrapper>
                 {this.state.projects.map(project => (
                 <ProjectCard
