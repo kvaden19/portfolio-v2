@@ -1,50 +1,40 @@
 .projectCard {
-    height: 390px;
+    margin-left: 100px;
     margin-bottom: 50px;
+    width: 50%;
     background-color: #489bc7;
     opacity: 90%;
 }
 
-.projectCard h5 {
-    padding: 12px 0 0 12px;
+.cardHeader h5 {
+    padding: 12px 0px 0px 12px;
     font-size: 36px;
     font-weight: 300;
 }
 
-.content {
-    display: inline;
-    float: right;
-    height: 100%;
-    width: 75%;
-}
-
-.cardHeader {
-    display: block;
-    height: 15%;
-}
-
 .dcx {
-    display: block;
-    height: 40%;
-    margin-left: -50px;
+    margin: 0 -50px;
+    width: 125%;
     background-color: #2d3436;
-    padding: 12px 0 0 12px;
+    padding: 12px;
     color: white;
 }
 
 .cardFooter {
-    padding: 12px 0 0 12px;
-    display: block;
-    height: 45%;
+    padding: 12px;
 }
 
 .tags {
     word-spacing: 10px;
 }
 
+.cardFooter ul {
+    height: 50px;
+}
+
 .cardFooter li {
     float: left;
-    width: 10%
+    width: 15%
 }
 
 .cardFooter img {
@@ -53,7 +43,3 @@
     margin-top: 10px;
 }
 
-#kelly {
-    height: 200px;
-    opacity: 1;
-}

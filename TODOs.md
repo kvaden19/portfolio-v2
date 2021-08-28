@@ -1,9 +1,6 @@
 ## TODOs:
 
-- About Tab (0.5)
-    - Use a card to make the text more legible
-- Portfolio Tab (1.5)
-    - There will be no pictures, so right-size / redesign the project cards
+- Portfolio Tab (1)
     - Decide your portfolio pieces
     - Update summary, tags, and links accordingly. Also update GH pins.
 - Mobile Version (2)

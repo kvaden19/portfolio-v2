@@ -20,6 +20,18 @@
 }
 
 .shortPage p {
-    width: 70%;
+    /* width: 70%; */
     font-size: 16px;
+}
+
+.aboutCard {
+    height: fit-content;
+    width: 75%;
+    margin-left: 2%;
+    background-color: #489bc7;
+    opacity: 90%;
+}
+
+.aboutP {
+    padding: 2%;
 }
