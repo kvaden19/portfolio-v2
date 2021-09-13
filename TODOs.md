@@ -1,8 +1,7 @@
 ## TODOs:
 
-- Mobile Version (2)
-    - Once deployed, look at the site on an actual device
-    - Use media queries
-    - Remove background and profile pic
-    - Convert sidebar to card
-    - Make sure home, about, and portfolio content looks good on mobile
+- Mobile Version
+    - Mobile styling tweaks
+        - What's up with the contact links?
+        - What's up with the white space at the bottom of About?
+    - Add back a wallpaper or muted photo

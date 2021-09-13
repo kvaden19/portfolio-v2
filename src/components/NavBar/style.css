@@ -25,3 +25,9 @@ li {
     height: 200px;
     opacity: 1;
 }
+
+@media screen and (max-width: 1024px) {
+    #kelly {
+        display: none;
+    }
+}

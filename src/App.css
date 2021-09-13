@@ -6,20 +6,39 @@
     font-size: 16px;
 }
 
-#background {
-    background: url(/src/images/iStock-680820258.jpg) no-repeat center center fixed;
-    background-size: cover;
+/* Large Screen Styling */
+@media screen and (min-width: 1024px) {
+    #background {
+        background: url(/src/images/iStock-680820258.jpg) no-repeat center center fixed;
+        background-size: cover;
+    }
+
+    #sidebar {
+        height: 100vh;
+        width: 20%;
+        position: fixed;
+        top: 0;
+        left: 0;
+        background-color: #3d5f7f;
+        opacity: 90%;
+        overflow-x: hidden;
+        color: white;
+        padding-top: 50px;
+    }
 }
 
-#sidebar {
-    height: 100vh;
-    width: 20%;
-    position: fixed;
-    top: 0;
-    left: 0;
-    background-color: #3d5f7f;
-    opacity: 90%;
-    overflow-x: hidden;
-    color: white;
-    padding-top: 50px;
+/* Mobile Styling */
+@media screen and (max-width: 1024px) {
+    #background {
+        background-color: black;
+        background-size: cover;
+    }
+
+    #sidebar {
+        width: 100%;
+        background-color: #3d5f7f;
+        opacity: 90%;
+        color: white;
+        padding-top: 50px;
+    }
 }
