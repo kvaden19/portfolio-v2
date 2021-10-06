@@ -11,7 +11,7 @@ const NavBar = props => {
     <div id='sidebar'>
       <div className='container'>
         <img id='kelly' src={kelly} alt='Kelly'/>
-        <h3>KELLY VADEN</h3>
+        <h3 id='name'>KELLY VADEN</h3>
         <h5>Full Stack Software Engineer</h5>
         <nav>
           <li><Link to='/about' className='link'>About</Link></li>

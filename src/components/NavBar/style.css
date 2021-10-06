@@ -30,4 +30,12 @@ li {
     #kelly {
         display: none;
     }
+
+    #name {
+        font-size: 36px;
+    }
+
+    ul {
+        height: 70px;
+    }
 }

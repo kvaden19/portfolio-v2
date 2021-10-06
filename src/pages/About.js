@@ -3,7 +3,7 @@ import './styles/pages.css';
 
 function About() {
   return (
-    <div className='main shortPage'>
+    <div className='main shortPage tallMobile'>
       <div className='aboutCard'>
         <div className='aboutP'>
           <p>I'm a software developer with a background in engineering and data analytics. I recently finished a certificate in full stack development from Rutgers University, adding JavaScript and the MERN Stack to my existing knowledge of SQL and Python.</p> 

@@ -4,5 +4,12 @@
     left: 50%;
     width: 500px;
     margin-left: -250px;
+    padding-top: 7.5px;
     color: white;
+}
+
+@media screen and (max-width: 1024px) {
+    #footer {
+        background-color: black;
+    }
 }
